@@ -1,1 +1,1 @@
-# A Proof-Of-Concept for recent project done/implemented 
+# A Proof-Of-Concept for recent project done
