@@ -15,5 +15,29 @@ In this exercise, will create a SQL database in Azure and then test query the da
   <li>Enter the following values for each setting.</li>
    <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/Create%20a%20SQL%20database2.png" alt="SQL">
   <li>Select OK.</li>
-  <li>Complete the remaining fields for Create SQL Database using the following values.</li>
+  <li>Complete the remaining fields for <b>Create SQL Database</b> using the following values.</li>
+  <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/Create%20a%20SQL%20database3.png" alt="SQL">
+  <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/Create%20a%20SQL%20database4.png" alt="SQL">
+  <li>Select <b>Next : Networking</b>, and configure the following settings (accept defaults for fields not specified).</li>
+  <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/Create%20a%20SQL%20database5.png" alt="SQL">
+  <li>Select <b>Next : Security</b>, and for Enable Azure Defender for SQL, choose Not now. Leave the remaining settings as default (not configured).</li>
+  <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/Create%20a%20SQL%20database6.png" alt="SQL">
+  <li>Select <b>Next : Additional settings</b>, and configure the following settings.</li>
+  <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/Create%20a%20SQL%20database7.png" alt="SQL">
+  <li>Select <b>Review + create</b> to validate configuration entries.</li>
+  <li>Select <b>Create</b> to deploy the server and database. It can take approximately two to five minutes to create the server and deploy the sample database. The deployment pane shows the status, with updates for each resource that is created.</li>
+  <li>When deployment is complete, select <b>Go to resource</b>. The db1 SQL database Overview pane shows the essentials of the newly deployed database</li>
+  <li>In the command bar, select <b>Set server firewall</b>. The Firewall settings page appears.</li>
+  <li>Check the box next to <b>Allow Azure services and resources</b> to access this server at the bottom of the page, leaving other settings as default.</li>
+  <li>Select <b>Save</b> to update firewall settings, then close the Firewall settings pane.</li>
+  </ul>
+  
+  # Task 2: Test the database
+  
+  <li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  
 </ul>
