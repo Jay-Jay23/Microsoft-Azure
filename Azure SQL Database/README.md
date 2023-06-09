@@ -34,14 +34,19 @@ In this exercise, will create a SQL database in Azure and then test query the da
   
   # Task 2: Test the database
 <ul>
-  <li>In Azure resources menu, select <b>All resources</b>. Search for and select the SQL database resource Type, and ensure that your new database was created. You might need to refresh the page.</li>
-<img src="" alt="test database"
-<li>Select <b>db1</b>, the SQL database you created.</li>
-<li>In the SQL database menu, select <b>Query editor (preview)</b>. The <b>Query editor (preview)</b> pane appears.</li>
-<img src="" alt="test database"
-<li>Sign in as sqluser, with the password Pa$$w0rd1234.</li>
-<p>You will not be able to sign in because your IP address needs to be enabled in a firewall rule.</p>
-  <li>
+    <li>In Azure resources menu, select <b>All resources</b>. Search for and select the SQL database resource Type, and ensure that your new database was created. You might need to refresh the page.</li>
+  <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/test%20database.png" alt="test database">
+  <li>Select <b>db1</b>, the SQL database you created.</li>
+  <li>In the SQL database menu, select <b>Query editor (preview)</b>. The <b>Query editor (preview)</b> pane appears.</li>
+  <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/test%20database2.png" alt="test database">
+  <li>Sign in as sqluser, with the password Pa$$w0rd1234.</li>
+  <p>You will not be able to sign in because your IP address needs to be enabled in a firewall rule.</p>
+  <img src ="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/test%20database3.png" alt="test database">
+  <li>In the Query editor menu, select <b>Overview</b> (your edits will be lost), and in the command bar, select <b>Set server firewall</b>. The <b>Firewall        settings</b> page appears.</li>
+  <li>In the <b>Client IP address</b> section, your IP will be shown (verify that it is the same client IP address from the error you received in the previous step).</li>
+  <li>In the command bar select <b>Add your client IPv4 address</b>. This will add a <b>Rule name</b> that contains your IP address in both the <b>Start IP</b> and <b>End IP</b> fields.</li>
+  <li>Select <b>Save</b> to save this firewall rule.</li>
+  <img src ="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/test%20database4.png" alt="test database">
   <li></li>
   <li></li>
   <li></li>
