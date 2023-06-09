@@ -9,6 +9,6 @@ In this exercise, will create a SQL database in Azure and then test query the da
 # Task 1: Create the database
 <ul>
   <li>Sign in to the Azure portal.</li>
-  <li>Select Create a resource > Databases > SQL database. The Create SQL Database pane appears.</li>
+  <li>Select <b>Create a resource</b> > <b>Databases</b> > <b>SQL database</b>. The Create SQL Database pane appears.</li>
   <li>Enter the following values for each setting.</li>
 </ul>
