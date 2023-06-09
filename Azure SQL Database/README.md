@@ -60,3 +60,11 @@ FROM SalesLT.ProductCategory pc
 JOIN SalesLT.Product p
 ON pc.productcategoryid = p.productcategoryid;
 ```
+ <img src ="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/test%20database5.png" alt="test database">
+ 
+ <ul>
+  <li>Select Run, and then review the query results in the Results pane. The query should run successfully.</li>
+  <li>Congratulations! You've created a SQL database in Azure and successfully queried the data in that database.</li>
+  <img src ="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/test%20database6.png" alt="test database">
+</ul>
+ 
