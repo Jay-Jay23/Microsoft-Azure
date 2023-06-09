@@ -11,4 +11,9 @@ In this exercise, will create a SQL database in Azure and then test query the da
   <li>Sign in to the Azure portal.</li>
   <li>Select <b>Create a resource</b> > <b>Databases</b> > <b>SQL database</b>. The Create SQL Database pane appears.</li>
   <li>Enter the following values for each setting.</li>
+  <img src="" alt="">
+  <li>Enter the following values for each setting.</li>
+   <img src="" alt="">
+  <li>Select OK.</li>
+  <li>Complete the remaining fields for Create SQL Database using the following values.</li>
 </ul>
