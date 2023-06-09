@@ -52,7 +52,9 @@ In this exercise, will create a SQL database in Azure and then test query the da
 <li>Sign in again as <b>sqluser</b>, with the password <b>Pa$$w0rd1234</b>. This time you should succeed. It might take a couple of minutes for the new firewall rule to be deployed. If you still get an error, verify the client IP address in the error, and return to <b>Firewall settings</b> to add the correct client IP address.</li>
 <li>After you sign in successfully, the query pane appears. Enter the following SQL query into the editor pane.</li>
 </ul>
-```
+
+## Code
+``` sql
 SELECT TOP 20 pc.Name as CategoryName, p.name as ProductName
 FROM SalesLT.ProductCategory pc
 JOIN SalesLT.Product p
