@@ -13,7 +13,7 @@ In this exercise, will create a SQL database in Azure and then test query the da
   <li>Enter the following values for each setting.</li>
   <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/Create%20a%20SQL%20database.png" alt="SQL">
   <li>Enter the following values for each setting.</li>
-   <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/Create%20a%20SQL%20database.png" alt="SQL">
+   <img src="https://github.com/Jay-Jay23/Microsoft-Azure/blob/main/Azure%20SQL%20Database/image/Create%20a%20SQL%20database2.png" alt="SQL">
   <li>Select OK.</li>
   <li>Complete the remaining fields for Create SQL Database using the following values.</li>
 </ul>
