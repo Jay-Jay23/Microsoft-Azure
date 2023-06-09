@@ -33,7 +33,14 @@ In this exercise, will create a SQL database in Azure and then test query the da
   </ul>
   
   # Task 2: Test the database
-  
+<ul>
+  <li>In Azure resources menu, select <b>All resources</b>. Search for and select the SQL database resource Type, and ensure that your new database was created. You might need to refresh the page.</li>
+<img src="" alt="test database"
+<li>Select <b>db1</b>, the SQL database you created.</li>
+<li>In the SQL database menu, select <b>Query editor (preview)</b>. The <b>Query editor (preview)</b> pane appears.</li>
+<img src="" alt="test database"
+<li>Sign in as sqluser, with the password Pa$$w0rd1234.</li>
+<p>You will not be able to sign in because your IP address needs to be enabled in a firewall rule.</p>
   <li>
   <li></li>
   <li></li>
